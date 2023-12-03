@@ -4,7 +4,9 @@ remote: git@github.com:joshhayles/WordPlay.git
 To github.com:joshhayles/wordle.git"
 
 Run this command to update the remote URL:
-  `remote set-url origin git@github.com:joshhayles/WordPlay.git`
+```bash
+`remote set-url origin git@github.com:joshhayles/WordPlay.git`
 
 Run this command to check the remote URL:
-  `git remote -v`
+```bash
+`git remote -v`
